@@ -7,7 +7,7 @@
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "MICROVD",
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^5.5.2",
